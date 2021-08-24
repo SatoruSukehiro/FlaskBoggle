@@ -1,0 +1,48 @@
+
+
+td{
+    border: solid black
+}
+h1{
+    
+    text-shadow: 3px 3px 7px bisque
+}
+
+table{
+    margin: 0 auto;
+}
+.jumbotron{
+    box-shadow: 3px 3px 7px;
+    text-align: center;
+    align-items: center;
+    margin-top: 10%;
+    padding-top:10%;
+    padding-bottom:10%
+}
+.score{
+    text-align: center;
+    
+}
+#container{
+    
+    width:fit-content;
+    height:fit-content
+}
+#data:hover{
+    background-color: rgb(2, 2, 2);
+    color:white
+}
+#form-data{
+    display: flex;
+    justify-content: center;
+    
+}
+#data{
+    padding: 10px;
+}
+#results{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
